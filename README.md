@@ -4,6 +4,9 @@
 ## React
 [React小书](http://huziketang.com/books/react/lesson1)
 
+## VUE
+[如何用 Vue.js 实现一个建站应用](https://github.com/github-libra/lego)
+
 ## node
 [node服务器部署](https://segmentfault.com/a/1190000010098126)
 
