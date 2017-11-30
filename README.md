@@ -16,3 +16,6 @@
 [shadowcocks服务安装](https://teddysun.com/486.html)
 
 [开启bbr加速](https://teddysun.com/489.html)
+
+## github
+[api](https://github.com/jokermonn/-Api)
